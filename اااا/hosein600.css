@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(black,blueviolet)
+}
+h2 {
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+    background: linear-gradient(red,rgb(40, 185, 21))
+    
+
+}
