@@ -1,8 +1,21 @@
 div {
    width: 500px;
    margin-left: 350px;
-     
+       display: table;
+    margin: 0 auto;
+    margin-top: 20px;
+    
 }
 body {
    background: linear-gradient(rgb(21, 224, 214))
 }
+
+a{
+   background: linear-gradient(green,pink,red);
+   padding: 20px;
+   border-radius: 20px;
+   margin: 0 auto;
+   display: table;
+   margin-top:25px;
+}
+

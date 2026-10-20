@@ -7,7 +7,10 @@ h2 {
 
 a {
     padding: 10px;
-    background: linear-gradient(red,rgb(40, 185, 21))
+    background: linear-gradient(green,pink,red)
     
 
+}
+.ll {
+    border-radius: 10px;
 }

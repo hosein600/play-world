@@ -2,20 +2,33 @@ a {
     text-align: center;
     color: black;
     margin-left:20px;
-    background: red;
+    background: linear-gradient(green,pink,red);
     border: 40px;
-
+     
     padding: 10px;
 }
 body {
     background: linear-gradient(rgb(46, 190, 209))
 }
 
-text {
-    text-align: center;
+.text {
+    border-radius: 10px;
+    
 }
 ul {
     background: rgb(48, 224, 24);
     text-align: center;
     padding: 20px;
+    
 }
+.hosein{
+    display: table;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 33px;
+    font-size: 30px;
+    border-radius: 20px;
+ }
+
+ 
+    
