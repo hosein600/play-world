@@ -4,6 +4,7 @@ a {
     margin-left:20px;
     background: linear-gradient(green,pink,red);
     border: 40px;
+    text-decoration: none;
      
     padding: 10px;
 }
@@ -18,7 +19,8 @@ body {
 ul {
     background: rgb(48, 224, 24);
     text-align: center;
-    padding: 20px;
+    padding: 50px;
+    text-decoration: none;
     
 }
 .hosein{

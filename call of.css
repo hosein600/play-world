@@ -4,5 +4,23 @@ h1 {
 }
 
 body {
-    background: linear-gradient(rgb(9, 163, 224))
+    background: linear-gradient(pink);
+
+}
+
+ul {
+    background: linear-gradient(rgb(18, 155, 209),rgb(12, 216, 22));
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+
+a {
+    display: table;
+    margin: 0 auto;
+    border-radius: 10px;
+     padding: 10px;
+    background: linear-gradient(green,pink,red);
+    text-decoration: none;
+    
 }

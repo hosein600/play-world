@@ -7,8 +7,8 @@ h2 {
 
 a {
     padding: 10px;
-    background: linear-gradient(green,pink,red)
-    
+    background: linear-gradient(green,pink,red);
+    text-decoration: none;
 
 }
 .ll {
