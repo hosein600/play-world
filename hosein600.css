@@ -1,8 +1,9 @@
 body {
-    background: linear-gradient(black,blueviolet)
+    background: linear-gradient(rgb(53, 230, 8));
 }
 h2 {
     text-align: center;
+
 }
 
 a {
