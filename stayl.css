@@ -1,12 +1,11 @@
 a {
     text-align: center;
     color: black;
-    margin-left:20px;
+    margin-left:30px;
     background: linear-gradient(green,pink,red);
     border: 40px;
-    text-decoration: none;
-     
-    padding: 10px;
+    text-decoration: none;    
+    padding: 20px;
 }
 body {
     background: linear-gradient(rgb(46, 190, 209))
@@ -26,7 +25,7 @@ ul {
 .hosein{
     display: table;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 500px;
     padding: 33px;
     font-size: 30px;
     border-radius: 20px;
@@ -38,6 +37,14 @@ ul {
     color: gold;
     margin: 0 auto;
     display: table;
+    margin-bottom: 50px;
+ }
+
+ img {
+    margin: 0 auto;
+    display: table;
+    margin-top: 50px;
+    border-radius: 10px;
  }
 
  
