@@ -16,7 +16,7 @@ body {
     
 }
 ul {
-    background: linear-gradient(rgb(0, 4, 255),rgb(219, 23, 226));
+    background: linear-gradient(Blue,rgb(233, 10, 233));
     text-align: center;
     padding: 50px;
     text-decoration: none;
@@ -44,7 +44,11 @@ ul {
     margin: 0 auto;
     display: block;
     margin-top: 50px;
-    border-radius: 10px;
+    border-radius: 20px;
+ }
+
+.yyy {
+    width: 10px;
  }
 
  
