@@ -7,8 +7,12 @@ div {
     
 }
 body {
-   background: linear-gradient(rgb(21, 224, 214))
+   background: linear-gradient(blue,purple);
+
+   min-height: 100vh;
+    margin: 0;
 }
+
 
 a{
     margin-top:25px;
