@@ -8,18 +8,28 @@ a {
     padding: 20px;
 }
 body {
-    background: linear-gradient(rgb(46, 190, 209))
+    
+    
+    background: linear-gradient(blue,purple);
+
+    min-height: 100vh;
+    margin: 0;
 }
+
+  
+
+
 
 .text {
     border-radius: 10px;
     
 }
 ul {
-    background: linear-gradient(Blue,rgb(233, 10, 233));
+    background: linear-gradient(purple,blue);
     text-align: center;
     padding: 50px;
     text-decoration: none;
+    border-radius:100px;
     
 }
 .hosein{
@@ -46,10 +56,135 @@ ul {
     margin-top: 50px;
     border-radius: 20px;
  }
-
-.yyy {
-    width: 10px;
+ p {
+    text-align: center;
+    color: chartreuse;
+    font-size: 100px;
+    
  }
 
- 
+ .title {
+    width: 500px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
