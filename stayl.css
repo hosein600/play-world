@@ -6,12 +6,10 @@ a {
     border: 40px;
     text-decoration: none;    
     padding: 20px;
+    
 }
 body {
-    
-    
     background: linear-gradient(blue,purple);
-
     min-height: 100vh;
     margin: 0;
 }
@@ -25,11 +23,12 @@ body {
     
 }
 ul {
-    background: linear-gradient(purple,blue);
+    
     text-align: center;
     padding: 50px;
     text-decoration: none;
     border-radius:100px;
+    font-size: 30px;
     
 }
 .hosein{
@@ -55,11 +54,12 @@ ul {
     display: block;
     margin-top: 50px;
     border-radius: 20px;
+    margin-bottom: 50px ;
  }
  p {
     text-align: center;
-    color: chartreuse;
-    font-size: 100px;
+    color: rgb(254, 255, 253);
+    font-size: 200px;
     
  }
 
